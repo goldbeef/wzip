@@ -9,6 +9,7 @@ AUTHOR
 
 NOTE:
 
+these source codes were written on 32 bit  computer with linux OS.
 you should first get SAu.tgz form http://pizzachili.dcc.uchile.cl/indexes/Suffix_Array/  ,then decompress it and you will get directory  
 SAu_FILES, then do the following:
 1.change directory to: SAu_FILES/ds/ ;
