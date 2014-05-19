@@ -5,4 +5,17 @@ wzip is a block-sorting compressor,based on BWT tranformation, wavelte tree, run
 
 AUTHOR
      goldbeef (goldbeef@163.com) ,xidian university ,CHINA.
+
+
+NOTE:
+     you should first get SAu.tgz form http://pizzachili.dcc.uchile.cl/indexes/Suffix_Array/  ,then decompress it and you will get directory  
+     SAu_FILES, then do the following:
+     $ cd SAu_FILES/ds/
+     $ make 
+     $ mv ds_ssort.a libds_ssort.a
       
+     up to now we get the lib libds_ssort.a ,and then copy out this lib to wzip project directroy, and change directory to wzip project               directory, and then make to get wzip.
+     
+     see the manul.txt for more about wzip.
+     
+     
