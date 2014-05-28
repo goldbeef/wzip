@@ -10,12 +10,12 @@ step 3: rename ds_ssort.a to libds_ssort.a
 step 4: up to now we get the lib libds_ssort.a ,and then copy out this lib to wzip project directroy
 step 5: change directory to wzip project directory, and then make to get wzip.
 ###example for use
-while compressing a file "book",
+While compressing a file "book",
   wzip -c book 
   or
   wzip -c -b 9 -e 3 -g 1 -p 2 -v 3  book
 
-while decompressing a file "book.wz"
+While decompressing a file "book.wz"
   wzip -d book.wz
   
 while getting help
