@@ -4,9 +4,9 @@ Wzip is a block-sorting compressor, based on Burrows-Wheeler transform (BWT), wa
 ## How to use it?
 ###build your own program
 step 1: first get SAu.tgz form http://pizzachili.dcc.uchile.cl/indexes/Suffix_Array/,then decompress it and you will get directory  
-SAu_FILES ;
-step 2: change directory to: SAu_FILES/ds/ , then make ; 
-step 3: rename ds_ssort.a to libds_ssort.a ; 
+SAu_FILES
+step 2: change directory to: SAu_FILES/ds/ , then make
+step 3: rename ds_ssort.a to libds_ssort.a
 step 4: up to now we get the lib libds_ssort.a ,and then copy out this lib to wzip project directroy
 step 5: change directory to wzip project directory, and then make to get wzip.
 ###about
