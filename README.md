@@ -26,7 +26,7 @@ While decompressing a file "book.wz"
 while getting help
   wzip -L
 ###references
-1. 赵恒，霍红卫（导师），大数据压缩数据结构与压缩算法设计与实现，西安电子科技大学硕士论文，2014
+1. 赵恒，霍红卫（导师），基于BWT和小波树的数据压缩算法研究与实现，西安电子科技大学硕士论文，2014
 2. 赵恒，霍红卫, 基于BWT和小波树的数据压缩算法, 技术报告.
 3. L. Foschini, R. Grossi, A. Gupta, and J. S. Vitter, Fast Compression with a Static Model in High-Order Entropy. In Proc. IEEE Data Compression Conference (DCC), Snowbird, Utah, pages 62–71, March 2004.
 
